@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.obrestdatajpa"},{"l":"com.example.obrestdatajpa.config"},{"l":"com.example.obrestdatajpa.controller"},{"l":"com.example.obrestdatajpa.entities"},{"l":"com.example.obrestdatajpa.repository"}];updateSearchResults();
